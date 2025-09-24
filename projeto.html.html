@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>procastinadoparaamadores</title>
+</head>
+<body>
+    <h1>oque e procastinação? </h1>
+
+<pre>     A procrastinação é o ato de adiar ou postergar tarefas importantes,
+      substituindo-as por atividades mais fáceis, rápidas ou prazerosas,
+      mesmo sabendo que esse atraso pode trazer consequências negativas.</pre>
+
+<h2>tipos de procrastinação</h2>
+
+
+<pre>     1. Procrastinação ativa: ocorre quando a pessoa adia uma tarefa, mas acaba
+      realizando outras atividades produtivas ou criativas no lugar.
+      Exemplo: em vez de estudar para uma prova, a pessoa decide organizar
+      sua mesa de trabalho ou fazer um projeto pessoal.
+
+     2. Procrastinação passiva: é o tipo mais comum, onde a pessoa simplesmente
+      adia a tarefa sem realizar nada produtivo no lugar. Exemplo: em vez de
+      trabalhar em um relatório, a pessoa fica navegando nas redes sociais ou
+      assistindo vídeos.
+
+     3. Procrastinação decisional: acontece quando a pessoa adia tomar uma decisão
+      importante, o que pode levar à inação e à perda de oportunidades.
+      Exemplo: adiar a escolha de uma carreira ou a decisão de mudar de emprego.
+
+     4. Procrastinação por perfeccionismo: ocorre quando a pessoa adia uma tarefa
+      porque sente que não pode realizá-la perfeitamente. Isso pode levar à
+      paralisia e à falta de progresso. Exemplo: adiar o início de um projeto
+      porque sente que não tem todas as habilidades necessárias.</pre>
+
+<h2>consequências da procrastinação</h2>
+
+<pre>     1. Estresse e ansiedade: adiar tarefas importantes pode aumentar o
+      estresse e a ansiedade, especialmente quando os prazos se aproximam.
+
+     2. Baixo desempenho: a procrastinação pode levar a um trabalho de menor
+      qualidade, já que as tarefas são realizadas às pressas ou de forma
+      superficial.
+
+     3. Perda de oportunidades: adiar decisões importantes pode resultar na
+      perda de oportunidades valiosas, tanto na vida pessoal quanto profissional.
+
+     4. Impacto na saúde: a procrastinação crônica pode afetar a saúde mental
+      e física, contribuindo para problemas como insônia, depressão e baixa
+      autoestima.</pre>
+
+<h2>como superar a procrastinação</h2>
+
+<pre>     1. Divida tarefas grandes em partes menores: isso torna as tarefas
+      mais gerenciáveis e menos intimidantes.
+
+     2. Estabeleça prazos realistas: definir prazos claros pode ajudar a criar
+      um senso de urgência e motivação para concluir as tarefas.
+
+     3. Use técnicas de gerenciamento de tempo: métodos como a técnica Pomodoro,
+      que envolve trabalhar por períodos curtos e focados, podem aumentar a
+      produtividade.
+
+     4. Identifique e elimine distrações: crie um ambiente de trabalho livre
+      de distrações, como desligar notificações do celular ou trabalhar em um
+      local tranquilo.
+
+     5. Pratique a autocompaixão: seja gentil consigo mesmo e reconheça que
+      todos enfrentam desafios com a procrastinação. Evite se culpar excessivamente.</pre>
+
+
+
+</body>
+</html>
